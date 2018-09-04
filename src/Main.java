@@ -8,5 +8,6 @@ public class Main {
         System.out.println("skriv commandoen ned");
         System.out.println("Git add .");
         System.out.println("git commit -m 'kommentar'");
+        System.out.println("git push");
     }
 }
