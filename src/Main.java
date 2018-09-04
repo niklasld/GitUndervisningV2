@@ -6,5 +6,7 @@ public class Main {
         System.out.println("hasan her");
         System.out.println("Cookie monster");
         System.out.println("skriv commandoen ned");
+        System.out.println("Git add .");
+        System.out.println("git commit -m 'kommentar'");
     }
 }
