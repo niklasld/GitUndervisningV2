@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Git undervisning V2");
         System.out.println("hasan her");
+        System.out.println("Cookie monster");
     }
 }
